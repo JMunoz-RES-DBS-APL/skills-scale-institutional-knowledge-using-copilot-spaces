@@ -1,0 +1,3 @@
+Adds docs/README.md as a navigation hub and executive overview for OctoAcme project management processes; includes TOC linking existing docs, quick reference artifacts, roles, cadence, and QA guidance.
+
+Closes #3
